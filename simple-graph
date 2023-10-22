@@ -74,5 +74,11 @@
             <to>c</to>
             <cost>5</cost>
         </node>
+        <node>
+            <id>e9</id>
+            <from>a</from>
+            <to>c</to>
+            <cost>5</cost>
+        </node>
     </edges>
 </graph>
